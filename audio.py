@@ -8,7 +8,7 @@ import time
 from pygame import mixer
 
 
-openai.api_key = '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'
+openai.api_key = 'your'r openai key'
 client = speech.SpeechClient.from_service_account_file('key.json')
 
 
